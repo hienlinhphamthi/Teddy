@@ -1,0 +1,207 @@
+{
+  "user": [
+    {
+      "name": "Phạm Thị Hiền Linh",
+      "email": "linh@gmail.com",
+      "phone": "0123456789",
+      "password": "",
+      "thumb": "1695625059371-Kung_fu_panda_poster.jpg",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "name": "BỘ SƯU TẬP GẤU TEDDY",
+      "id": 1
+    },
+    {
+      "name": "GẤU BÔNG TEDDY BIG SIZE",
+      "id": 2
+    },
+    {
+      "name": "BST HOA BÔNG KHÔNG TÀN",
+      "id": 3
+    },
+    {
+      "name": "SIÊU SALE TRUNG THU",
+      "id": 4
+    },
+    {
+      "name": "BST THỎ BÔNG ĐÓN TRĂNG",
+      "id": 5
+    },
+    {
+      "name": "Minions",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "Gấu Bông Teddy MonPink 123",
+      "cate_id": 1,
+      "price": 355000,
+      "detail": "<p>Đặc điểm nổi bật</p>\n\n<ul>\n\t<li>Thiết kế đơn giản tinh tế với gam m&agrave;u trắng k&iacute;ch thước chiều d&agrave;i&nbsp;<strong>16.6 cm</strong>&nbsp;v&agrave; khối lượng&nbsp;<strong>20.7 g.</strong></li>\n\t<li>Kết nối kh&ocirc;ng d&acirc;y v&agrave; được sạc bằng nam ch&acirc;m từ t&iacute;nh.</li>\n\t<li>Sạc pin ngay tr&ecirc;n thiết bị Ipad, sạc đầy trong&nbsp;<strong>45 ph&uacute;t,&nbsp;</strong>sử dụng đến&nbsp;<strong>4 giờ.</strong></li>\n\t<li>C&ocirc;ng nghệ cảm ứng lực nhấn cho độ trễ thấp, độ nhạy v&agrave; ch&iacute;nh x&aacute;c cao.</li>\n\t<li>Dễ d&agrave;ng thao t&aacute;c chuyển đổi c&ocirc;ng cụ b&uacute;t bằng cảm ứng tr&ecirc;n th&acirc;n b&uacute;t.</li>\n\t<li><strong>Lưu &yacute;: Thanh to&aacute;n trước khi mở seal.</strong></li>\n</ul>\n\n<h3>Th&ocirc;ng tin sản phẩm</h3>\n\n<h3>Thiết kế đơn giản, sang trọng</h3>\n\n<p><a href=\"https://www.thegioididong.com/phu-kien-thong-minh/but-cam-ung-apple-pencil-2-apple-mu8f2\" target=\"_blank\">B&uacute;t cảm ứng Apple Pencil Gen 2</a>&nbsp;c&oacute; thiết kế tương tự như một chiếc b&uacute;t ch&igrave;. Với chiều d&agrave;i&nbsp;<strong>16.6 cm</strong>&nbsp;v&agrave; khối lượng&nbsp;<strong>20.7 g</strong>, vỏ ngo&agrave;i của b&uacute;t kh&ocirc;ng c&ograve;n được l&agrave;m b&oacute;ng như những thế hệ trước m&agrave; được l&agrave;m nh&aacute;m mờ đem lại khả năng cầm chắc tay v&agrave; linh hoạt khi sử dụng. Gam m&agrave;u trắng bao phủ to&agrave;n bộ th&acirc;n b&uacute;t tạo n&ecirc;n sự nhẹ nh&agrave;ng m&agrave; vẫn sang trọng.</p>\n",
+      "thumb": "1695867960683-gau-bong-teddy-monpink-500x500 (1).jpg",
+      "id": 1
+    },
+    {
+      "name": "Gấu Bông Teddy Angel Hồng",
+      "cate_id": 1,
+      "price": 385000,
+      "detail": "Gấu Bông Teddy Angel Hồng ! Chỉ cần nghe đến cái tên này thôi bạn cũng đã biết được sự đáng yêu của chú gấu teddy này rồi. Màu hông là màu của tính yêu và sự thơ mông, chính vì thế gấu bông màu hồng sẽ là món quà tuyệt vời dành cho những ai đáng yêu nhau.\n\n– Mã Sp: Angel Hồng\n\nGấu Bông Teddy Angel Hồng \n– Size 1: 2m2 với giá 2.500.000đ\n\n– Size 2: 1m8 với giá 1.7000.000đ\n\n– Size 3: 1m6 với giá 1.350.000đ\n\n– Size 4: 1m3 với giá 1.050.000đ\n\n– Size 5: 1m1 với giá 735.000đ\n\n– Size 6: 80cm với giá 455.000đ\n\n– Size 7: 65cm với giá 285.000đ",
+      "thumb": "1695868004597-teddy-angel-hong-24-500x500 (1).jpg",
+      "id": 2
+    },
+    {
+      "name": "Gấu Bông Teddy Áo Len Mây Cười ",
+      "cate_id": 1,
+      "price": 365000,
+      "detail": "– Mã SP: Gấu Áo Len Mây Cười\n\nGấu Bông Teddy Áo Len Mây Cười \n– Kích Thước:\n\n+Size 1: 1m5 – 1.220.000đ.\n\n+Size 2: 1m3 – 1.020.000đ.\n\n+Size 3: 1m1 – 785.000đ.\n\nGấu Bông Teddy Áo Len Mây Cười \nGấu Bông Teddy Áo Len Mây Cười đang được bán tại Gấu Bông Online",
+      "thumb": "1695868052285-ao-len-may-cuoi-4-500x500 (1).jpg",
+      "id": 3
+    },
+    {
+      "name": "Gấu Bông Teddy Logo Baby",
+      "cate_id": 1,
+      "price": 455000,
+      "detail": "– Mã Sp: Logo Baby \n\nGấu Bông Teddy Logo Baby \n\n+ Kích thước: \n\n– Size 1: 2m – 2.300.000đ\n\n– Size 2: 1m7 – 1.600.000đ\n\n– Size 3: 1m4 – 995.000đ \n\n– Size 4: 1m1 – 685.000đ\n\n– Size 5: 80cm – 445.000đ\n\nGấu Bông Teddy Logo Baby giống như một đứa trẻ nhỏ đáng yêu, hồn nhiên và ngây thơ. Teddy len logo baby là món quà tặng siêu dễ thương mà bất cứ ai cũng muốn được sở hữu. Chú gấu bông này này không chỉ đơn giản là món quà kỷ niệm mà đây còn là lời nhắn nhủ tình cảm, một thông điệp yêu thương.\n\n\n\nĐặc điểm thiết kế của những chú gấu Teddy Logo Baby\nThiết kế của gấu Teddy logo baby",
+      "thumb": "1695868114909-teddy-logo-baby-4-500x500 (1).jpg",
+      "id": 4
+    },
+    {
+      "name": "GẤU BÔNG TEDDY QUẢ DÂU",
+      "cate_id": 1,
+      "price": 325000,
+      "detail": "– Mã SP: Gấu Ngực Quả Dâu \n\nGấu Bông Teddy Ngực Quả Dâu\n\n– Kích Thước:\n\n+Size 1: 1m6 – 1.150.000đ.\n\n+Size 2: 1m4 – 885.000đ.\n\n+Size 3: 1m1 – 665.000đ.\n\n+Size 4: 80cm – 445.000đ.\n\n+Size 5: 60cm – 325.000đ.\n\n",
+      "thumb": "1695868168717-gau-nguc-qua-dau-6-500x500 (1).jpg",
+      "id": 5
+    },
+    {
+      "name": "GẤU BÔNG MINIONS NIỀNG RĂNG",
+      "cate_id": 6,
+      "price": 320000,
+      "detail": "– Mã SP: Minion Niềng Răng.\n\nGấu Bông Minions Niềng Răng\n\n+ Size 1: 80cm – 785.000đ giảm giá còn 320.000đ.\n\n+ Size 2: 50cm – 465.000đ giảm giá còn 200.000đ.\n\n+ Size 3: 40cm – 285.000đ giảm giá còn 125.000đ.\n\n+ Size 4: 30cm – 185.000đ giảm giá còn 85.000đ.\n\nMùa Trăng này, Gấu Bông Online mang đến cho những tín đồ Minions những Deal giảm giá siêu hời. Đặc biệt hơn, khi mua các sản phẩm Gấu Bông có mức giá từ 300K, các bạn sẽ được nhận ưu đãi: Mua Minions Niềng Răng size 30cm với giá 60.000đ, đối với các sản phẩm từ 600K sẽ được nhận ưu đãi mua Minions Niềng Răng 40cm với giá 99.000đ.\n\nMinions Niềng Răng",
+      "thumb": "1695868275709-minion-nieng-rang-3.jpg",
+      "id": 6
+    },
+    {
+      "name": "SET BÓ HOA VẢI LÔNG",
+      "cate_id": 3,
+      "price": 450000,
+      "detail": "– Mã SP: Set Bó Hoa Vải Lông –  GB24325\n\nSet Bó Hoa Vải Lông\n– Kích thước: \n\n+ Size : 45cm – 365.000VNĐ.\n\n Các Set bó hoa vải lông nhà Gấu Bông Online vô cùng đáng yêu và ngộ nghĩnh với sự kết hợp cùng những em bé gấu bông. Đảm bảo sẽ khiến bao trái tim phải rộn ràng! \n\n– Set Bó Hoa Vải Lông Trắng – Lotso Mây\n\n– Set Bó Hoa Vải Lông Vàng – Pooh Dứa\n\n– Set Bó Hoa Vải Lông Hồng – Thỏ Melody\n\n– Set Bó Hoa Vải Lông Tím – Kuromi Mây\n\n– Set Bó Hoa Vải Lông Xanh – Thỏ Cinnamoroll\n\n \n\n",
+      "thumb": "1695868357950-set-bo-hoa-vai-long-2-1-500x500.jpg",
+      "id": 7
+    },
+    {
+      "name": "SET BÓ HOA VẢI LÔNG",
+      "cate_id": 3,
+      "price": 265000,
+      "detail": "– Mã SP: Set Bó Hoa Vải Lông –  GB24320\n\nSet Bó Hoa Vải Lông\n– Giá sp: 265.000đ.\n\nSet Bó Hoa Vải Lông \nSet Bó Hoa Vải Lông đã có mặt tại Gấu Bông Online\nSet Bó Hoa Vải Lông \nSet Bó Hoa Vải Lông\nSet Bó Hoa Vải Lông \nSet Bó Hoa Vải Lông\nSet Bó Hoa Vải Lông ",
+      "thumb": "1695868389029-set-bo-hoa-vai-long-5-500x500 (1).jpg",
+      "id": 8
+    },
+    {
+      "name": "SET BÓ HOA VẢI – LOTSO DÂY NƠ TIM",
+      "cate_id": 3,
+      "price": 525000,
+      "detail": "– Mã SP: Set Bó Hoa Vải – Lotso Dây Nơ Tim – GB22825\n\nSet Bó Hoa Vải – Lotso Dây Nơ Tim \n– Giá sp: 525.000đ.\n\nSet Bó Hoa Vải - Lotso Dây Nơ Tim \nSet Bó Hoa Vải – Lotso Dây Nơ Tim đã có mặt tại Gấu Bông Online\nSet Bó Hoa Vải - Lotso Dây Nơ Tim \nSet Bó Hoa Vải – Lotso Dây Nơ Tim\nSet Bó Hoa Vải - Lotso Dây Nơ Tim \nSet Bó Hoa Vải – Lotso Dây Nơ Tim\nSet Bó Hoa Vải - Lotso Dây Nơ Tim \nSet Bó Hoa Vải – Lotso Dây Nơ Tim\nSet Bó Hoa Vải - Lotso Dây Nơ Tim \nSet Bó Hoa Vải – Lotso Dây Nơ Tim\nSet Bó Hoa Vải - Lotso Dây Nơ Tim ",
+      "thumb": "1695868415829-set-bo-hoa-vai-lotso-day-no-tim-9-500x500 (1).jpg",
+      "id": 9
+    },
+    {
+      "name": "SET BÓ HOA VẢI LÔNG – LOTSO ĐỎ MÓC TREO",
+      "cate_id": 3,
+      "price": 565000,
+      "detail": "– Mã SP: Set Bó Hoa Vải Lông – Lotso Đỏ Móc Treo  – GB24118\n\nSet Bó Hoa Vải Lông – Lotso Đỏ Móc Treo \n– Giá sp: 535.000đ.\n\nSet Bó Hoa Vải Lông - Lotso Đỏ Móc Treo \nSet Bó Hoa Vải Lông – Lotso Đỏ Móc Treo đã được bán tại Gấu Bông Online\nSet Bó Hoa Vải Lông - Lotso Đỏ Móc Treo \nSet Bó Hoa Vải Lông – Lotso Đỏ Móc Treo\n",
+      "thumb": "1695868466534-Az4718759626349_b732940bffdf944358dd49aa9b041b66-500x500 (1).jpg",
+      "id": 10
+    },
+    {
+      "name": "SET BÓ HOA VẢI BÈO – LOTSO TAI HOA HỒNG",
+      "cate_id": 3,
+      "price": 455000,
+      "detail": "– Mã SP: Set Bó Hoa Vải Bèo – Lotso Tai Hoa Hồng – GB24118\n\nSet Bó Hoa Vải Bèo – Lotso Tai Hoa Hồng \n– Giá sp: 595.000đ.\n\nSet Bó Hoa Vải Bèo - Lotso Tai Hoa Hồng \nSet Bó Hoa Vải Bèo – Lotso Tai Hoa Hồng đã có mặt tại Gấu Bông Online\nSet Bó Hoa Vải Bèo - Lotso Tai Hoa Hồng \nSet Bó Hoa Vải Bèo – Lotso Tai Hoa Hồng\nSet Bó Hoa Vải Bèo - Lotso Tai Hoa Hồng ",
+      "thumb": "1695868501461-set-bo-hoa-vai-beo-3-500x500 (1).jpg",
+      "id": 11
+    }
+  ],
+  "orders": [
+    {
+      "customer_name": "thông minh",
+      "customer_address": "Đà nẵng",
+      "customer_phone": "0898247883",
+      "customer_email": "tthanh@gmail.com",
+      "status": 0,
+      "created_date": "22-09-2023",
+      "id": 1
+    },
+    {
+      "customer_name": "hihi",
+      "customer_address": "Quảng nam",
+      "customer_email": "tsadsdanh@gmail.com",
+      "customer_phone": "0898247883",
+      "created_date": "23-09-2023",
+      "status": 3,
+      "id": 2
+    },
+    {
+      "customer_name": "thanh",
+      "customer_email": "thanh@gmail.com",
+      "customer_phone": "123456789",
+      "customer_address": "lâm , Phường Cầu Diễn, Quận Nam Từ Liêm , Thành phố Hà Nội",
+      "created_date": "05-10-2023",
+      "status": 1,
+      "id": 3
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "product_id": 2,
+      "quantity": 3,
+      "unit_price": 987878
+    },
+    {
+      "id": 2,
+      "order_id": 1,
+      "product_id": 1,
+      "quantity": 1,
+      "unit_price": 99999
+    },
+    {
+      "id": 3,
+      "order_id": 2,
+      "product_id": 1,
+      "quantity": 2,
+      "unit_price": 99999
+    },
+
+    {
+      "order_id": 3,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 385000,
+      "id": 5
+    }
+  ],
+  "comments": [
+
+  ]
+  ,
+  "messenger": {
+    "02":{
+      "name": "linh",
+      "email": "linh@gmail.com",
+      "mess": [
+        {
+          "role" : "user",
+          "message" : "heelo"
+        },{
+          "role" : "admin",
+          "message" :"okke"
+        }
+      ]
+    }
+  }
+}

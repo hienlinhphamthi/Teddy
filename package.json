@@ -1,0 +1,33 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "Taken from my YouTube Tutorial:\r https://www.youtube.com/watch?v=6BozpmSjk-Y",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --config webpack.config.js --watch",
+    "start": "node server.js  | node client.js | json-server --watch db.json | npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "bootstrap-icons": "^1.11.1",
+    "chart.js": "^4.4.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "fs-js": "^1.0.6",
+    "jquery": "^3.7.1",
+    "json-server": "^0.17.3",
+    "multer": "^1.4.5-lts.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "tailwindcss": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "main": "client.js"
+}

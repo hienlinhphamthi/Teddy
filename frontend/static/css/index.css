@@ -1,0 +1,118 @@
+/* body {
+    --nav-width: 200px;
+    margin: 0 0 0 var(--nav-width);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: var(--nav-width);
+    height: 100vh;
+    background: #222222;
+}
+
+.nav__link {
+    display: block;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: #eeeeee;
+    font-weight: 500;
+}
+
+.nav__link:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+#app {
+    margin: 2em;
+    line-height: 1.5;
+    font-weight: 500;
+} */
+
+:root {
+    --main-color: hotpink;
+    --rose-1 : #FDAFBC;
+    --rose-2 : #FF6683;
+    --blue: #02C4C1;
+  }
+a {
+    color: #009579;
+}
+a * {
+    pointer-events: none !important;
+}
+
+.no-border-outline {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  from {
+    background-position: 200% center;
+  }to {
+    background-position: 0% center;
+  }
+}
+
+.img-chat{
+  transition: width 0.4s ease-in-out;
+
+}
+.img-chat:hover{
+  width: 250px;
+}
+.img-chat:hover .absolute{
+  position: static;
+}
+
+#chat2 .form-control {
+  border-color: transparent;
+  }
+  
+  #chat2 .form-control:focus {
+  border-color: transparent;
+  box-shadow: inset 0px 0px 0px 1px transparent;
+  }
+
+
+  
+  .divider:after,
+  .divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #567FC3;
+   height:fit-content;
+  }
+
+  .detailProduct img {
+    width: 400px;
+  }
