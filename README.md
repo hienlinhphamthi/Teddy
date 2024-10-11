@@ -15,3 +15,5 @@ To give the completed code a quick test-drive:
 3. Open `localhost` in a web browser, using the port specified in `server.js` e.g. http://localhost:3000/
 
 > Refer to the **YouTube Tutorial** for step-by-step instructions to create the code. Enjoy! :)
+npm start: admin : http://localhost:3200/
+>  client: http://localhost:4040/
